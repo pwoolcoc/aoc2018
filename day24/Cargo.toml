@@ -1,0 +1,15 @@
+[package]
+name = "day24"
+version = "0.1.0"
+authors = ["Paul Woolcock <paul@woolcock.us>"]
+edition = "2018"
+
+[[bin]]
+name = "part01"
+path = "src/part01/main.rs"
+
+[[bin]]
+name = "part02"
+path = "src/part02/main.rs"
+
+[dependencies]
