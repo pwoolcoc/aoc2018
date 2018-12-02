@@ -13,3 +13,4 @@ name = "part02"
 path = "src/part02/main.rs"
 
 [dependencies]
+itertools = "0.7.11"
